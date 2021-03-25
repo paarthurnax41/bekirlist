@@ -10,9 +10,12 @@ const about = () => {
       </Head>
       <div>
         <h1>About</h1>
-        <p>Lorem ipsum dolor sit amet.</p>
-        <p>Lorem ipsum dolor sit amet.</p>
-        <p>Lorem ipsum dolor sit amet.</p>
+        <p>Bekirs.</p>
+        <p>Adventure.</p>
+        <p>
+          With Web Development , CSS is pushing me really hard and so many new
+          Stuff Ape Brain tired.
+        </p>
       </div>
     </>
   );
